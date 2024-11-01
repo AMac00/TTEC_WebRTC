@@ -1,0 +1,9 @@
+# python virtual environment used for unit testin
+/venv
+# Finesse Gadget directory
+/examples
+# Test Environment Variables
+.env
+# Old Code-Should delete
+/old_code_raw_js
+

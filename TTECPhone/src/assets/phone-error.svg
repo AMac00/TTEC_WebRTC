@@ -1,0 +1,12 @@
+<svg id="Layer_1" data-name="Layer 1"
+	xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42 36">
+	<defs>
+		<style>.cls-1{fill:#fff;}.cls-2{fill:#cf4237;}.cls-3{font-size:12px;}</style>
+	</defs>
+	<title>5_call_not_ready</title>
+	<path class="cls-1" d="M24,2a16,16,0,0,1,0,32H18A16,16,0,0,1,18,2Z"/>
+	<path class="cls-2" d="M41,12a7.91,7.91,0,0,1-1.5,1.9A16,16,0,0,1,24,34H18A16,16,0,0,1,18,2h6a16,16,0,0,1,4.17.55,7.92,7.92,0,0,1,1.92-1.49A17.8,17.8,0,0,0,24,0H18a18,18,0,1,0,0,36h6A18,18,0,0,0,42,18,17.69,17.69,0,0,0,41,12Z"/>
+	<circle class="cls-1" cx="34" cy="8.03" r="8"/>
+	<path class="cls-2" d="M34,2a6,6,0,1,0,6,6A6,6,0,0,0,34,2Zm2.86,7H31.14A1.08,1.08,0,0,1,30,8a1.07,1.07,0,0,1,1.14-1h5.72A1.07,1.07,0,0,1,38,8,1.08,1.08,0,0,1,36.86,9Z"/>
+    <text x="50%" y="55%" class="cls-3" dominant-baseline="middle" text-anchor="middle">Phone</text> 
+</svg>

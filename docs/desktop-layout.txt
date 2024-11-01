@@ -1,0 +1,27 @@
+Existing configuration...
+<header>
+    <!--  Please ensure that at least one gadget/component is present within every headercolumn tag -->
+	<leftAlignedColumns>
+		<headercolumn width="300px">
+			<component id="cd-logo">
+				<url>/desktop/scripts/js/logo.js</url>
+			</component>
+		</headercolumn>
+		<headercolumn width="230px">
+			<component id="agent-voice-state">
+				<url>/desktop/scripts/js/agentvoicestate.component.js</url>
+			</component>
+		</headercolumn>
+		<headercolumn width="251px">
+			<component id="nonvoice-state-menu">
+				<url>/desktop/scripts/js/nonvoice-state-menu.component.js</url>
+			</component>
+		</headercolumn>
+
+ADD THIS...
+<headercolumn width="600px">
+	<gadget>/3rdpartygadget/files/web-rtc/gadget.xml</gadget>
+</headercolumn>
+
+More existing configuration...
+</leftAlignedColumns>
